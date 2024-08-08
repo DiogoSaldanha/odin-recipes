@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: brown;
+    color: whitesmoke;
+}
+
+.container {
+    background-color: black;
+}
+
+.main-title {
+    color: aliceblue;
+}
+
+.list {
+    color: darkkhaki;
+}
+
+.list a {
+    color: whitesmoke;
+}
